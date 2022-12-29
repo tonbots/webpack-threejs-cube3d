@@ -1,4 +1,4 @@
-# webpack-threejs-started
+# webpack-threejs-Cube 3D
 
 [`preview`]
 
