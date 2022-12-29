@@ -2,7 +2,7 @@
 
 [`preview`]
 
-![GIF](https://github.com/tonbots/webpack-threejs-cube3d/static/cube3d.gif)
+![GIF](static/cube3d.gif)
 
 ## `Built with`
 - Nodejs
