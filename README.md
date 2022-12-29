@@ -1,12 +1,20 @@
 # webpack-threejs-started
 
+[`preview`]
+
+![GIF](https://github.com/tonbots/webpack-threejs-cube3d/static/cube3d.gif)
+
+## `Built with`
+- Nodejs
+- Webpack
+- Three.js
 
 ## `Step by step to run this project`
 
 ### `clone`
 You can clone by using git clone on your terminal:
 
-    git clone https://github.com/tonbots/webpack-threejs-started.git
+    git clone https://github.com/tonbots/webpack-threejs-cube3d.git
 
 You can clone by click on the GitHub green button "CODE" and download the .zip
 
