@@ -1,7 +1,5 @@
 # webpack-threejs-Cube 3D
 
-[`preview`]
-
 ![GIF](static/cube3d.gif)
 
 ## `Built with`
